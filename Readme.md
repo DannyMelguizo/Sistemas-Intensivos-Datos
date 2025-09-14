@@ -37,15 +37,16 @@ En el nuevo apartado seleccionaremos nuestra fuente de datos dando clic en `Expl
 
 En el apartado de Destino, seleccionaremos un conjunto de datos en donde queramos que se guarden, si no tenemos ahi mismo podremos crear uno.
 
-Y en el apartado de tabla, definiremos un nombre para la tabla.
+En el apartado de tabla, definiremos un nombre para la tabla y definiremos que el tipo de tabla sera `Tabla externa`.
 
 Ademas, activaremos `Deteccion automatica` en el apartado de `Esquema` y daremos en `Crear`.
 
 ![imagen](./imgs/7.png)
+![imagen](./imgs/8.png)
 
 Se nos creara la tabla con el nombre especificado anteriormente y sobre este ya podremos realizar consultas
 
-![imagen](./imgs/8.png)
+
 ![imagen](./imgs/9.png)
 ![imagen](./imgs/10.png)
 
